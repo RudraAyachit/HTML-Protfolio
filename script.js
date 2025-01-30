@@ -1,9 +1,289 @@
 // Example leaderboard data
 let leaderboard = [
-  { name: 'Ryan', wpm: 101 },
-  { name: 'Vinmai', wpm: 98 },
-  { name: 'Asad', wpm: 96 },
-  { name: 'Ayaan', wpm: 93 },
+  {
+    name: "Piyush",
+    wpm: 122
+  },
+  {
+    name: "Adeeb",
+    wpm: 119
+  },
+  {
+    name: "Bharadwaj",
+    wpm: 105
+  },
+  {
+    name: "Vinmai",
+    wpm: 102
+  },
+  {
+    name: "Ryan",
+    wpm: 101
+  },
+  {
+    name: "Sam",
+    wpm: 100
+  },
+  {
+    name: "Asad",
+    wpm: 96
+  },
+  {
+    name: "Ayaan",
+    wpm: 93
+  },
+  {
+    name: "Harsh Manav",
+    wpm: 93
+  },
+  {
+    name: "Maneeth",
+    wpm: 87
+  },
+  {
+    name: "Mary",
+    wpm: 78
+  },
+  {
+    name: "Sathwik",
+    wpm: 76
+  },
+  {
+    name: "Dr Michelle",
+    wpm: 75
+  },
+  {
+    name: "Chandu",
+    wpm: 71
+  },
+  {
+    name: "Akhil",
+    wpm: 69
+  },
+  {
+    name: "Prem",
+    wpm: 67
+  },
+  {
+    name: "Nandu",
+    wpm: 64
+  },
+  {
+    name: "Pavithra",
+    wpm: 63
+  },
+  {
+    name: "Sudarshan",
+    wpm: 62
+  },
+  {
+    name: "Anish",
+    wpm: 62
+  },
+  {
+    name: "Samanyu",
+    wpm: 59
+  },
+  {
+    name: "Pepluis Sir",
+    wpm: 58
+  },
+  {
+    name: "Kaushik",
+    wpm: 57
+  },
+  {
+    name: "Dinesh",
+    wpm: 57
+  },
+  {
+    name: "Priya",
+    wpm: 57
+  },
+  {
+    name: "Riya Mam",
+    wpm: 57
+  },
+  {
+    name: "Gagan",
+    wpm: 56
+  },
+  {
+    name: "Hassini",
+    wpm: 56
+  },
+  {
+    name: "Geetika",
+    wpm: 55
+  },
+  {
+    name: "Sai Ganesha",
+    wpm: 55
+  },
+  {
+    name: "Vaishnavi",
+    wpm: 54
+  },
+  {
+    name: "Rahul",
+    wpm: 54
+  },
+  {
+    name: "Nishnath",
+    wpm: 52
+  },
+  {
+    name: "Arjun",
+    wpm: 52
+  },
+  {
+    name: "Sumanth",
+    wpm: 52
+  },
+  {
+    name: "Suhas",
+    wpm: 51
+  },
+  {
+    name: "Diya",
+    wpm: 51
+  },
+  {
+    name: "Jahnavi",
+    wpm: 50
+  },
+  {
+    name: "Dakshina",
+    wpm: 50
+  },
+  {
+    name: "Deepak",
+    wpm: 50
+  },
+  {
+    name: "Mohana",
+    wpm: 49
+  },
+  {
+    name: "Palvasha",
+    wpm: 48
+  },
+  {
+    name: "Hanish",
+    wpm: 45
+  },
+  {
+    name: "Leena",
+    wpm: 44
+  },
+  {
+    name: "Nirmal",
+    wpm: 44
+  },
+  {
+    name: "Anchal",
+    wpm: 43
+  },
+  {
+    name: "Manish",
+    wpm: 43
+  },
+  {
+    name: "Wilson",
+    wpm: 43
+  },
+  {
+    name: "Anchal",
+    wpm: 43
+  },
+  {
+    name: "Sumith",
+    wpm: 38
+  },
+  {
+    name: "Yashaswini",
+    wpm: 38
+  },
+  {
+    name: "Ashar Khan",
+    wpm: 37
+  },
+  {
+    name: "Noorla Sheikh",
+    wpm: 35
+  },
+  {
+    name: "Kailash",
+    wpm: 34
+  },
+  {
+    name: "Navatej",
+    wpm: 32
+  },
+  {
+    name: "Praveena",
+    wpm: 30
+  },
+  {
+    name: "Vishnu",
+    wpm: 29
+  },
+  {
+    name: "Ajith Sir",
+    wpm: 29
+  },
+  {
+    name: "Ajith Sir",
+    wpm: 29
+  },
+  {
+    name: "Shivamani",
+    wpm: 28
+  },
+  {
+    name: "Yashwanth",
+    wpm: 28
+  },
+  {
+    name: "Shivamani",
+    wpm: 28
+  },
+  {
+    name: "Rounak",
+    wpm: 28
+  },
+  {
+    name: "Gagan",
+    wpm: 26
+  },
+  {
+    name: "Kesava",
+    wpm: 24
+  },
+  {
+    name: "Anirudh",
+    wpm: 24
+  },
+  {
+    name: "Anirudh",
+    wpm: 24
+  },
+  {
+    name: "Kesava",
+    wpm: 24
+  },
+  {
+    name: "Srinivas",
+    wpm: 23
+  },
+  {
+    name: "Ramesh",
+    wpm: 21
+  },
+  {
+    name: "Meher Gayatri Mam",
+    wpm: 12
+  }
 ];
 
 // Select elements
