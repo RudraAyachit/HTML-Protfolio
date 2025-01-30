@@ -1,6 +1,8 @@
 // Example leaderboard data
 let leaderboard = [
-  {
+  { name:"Nalini",
+   wpm: 37,
+   
     name: "Piyush",
     wpm: 122
   },
