@@ -3,7 +3,7 @@ let leaderboard = [
   { name: 'Ryan', wpm: 101 },
   { name: 'Vinmai', wpm: 98 },
   { name: 'Asad', wpm: 96 },
-  { name: 'Ayaan', wpm: 93 }
+  { name: 'Ayaan', wpm: 93 },
 ];
 
 // Select elements
